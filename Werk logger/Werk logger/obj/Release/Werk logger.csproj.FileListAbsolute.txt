@@ -1,0 +1,10 @@
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\bin\Release\Werk logger.exe.config
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\bin\Release\Werk logger.exe
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\bin\Release\Werk logger.pdb
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\obj\Release\Werk_logger.Form1.resources
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\obj\Release\Werk_logger.Form2login.resources
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\obj\Release\Werk_logger.Properties.Resources.resources
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\obj\Release\Werk logger.csproj.GenerateResource.cache
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\obj\Release\Werk logger.csproj.CoreCompileInputs.cache
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\obj\Release\Werk logger.exe
+F:\codes\REAL PROJECTS\werklogger\Werk logger\Werk logger\obj\Release\Werk logger.pdb

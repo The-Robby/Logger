@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Werk_logger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="s_Voornaam" Type="System.String" Scope="User">
+      <Value Profile="(Default)">voornaam</Value>
+    </Setting>
+    <Setting Name="s_Achternaam" Type="System.String" Scope="User">
+      <Value Profile="(Default)">achternaam</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
